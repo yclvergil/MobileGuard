@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.xtu.clc.mobileguard"
-        minSdkVersion 19
+        minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
         versionName "cl版"
